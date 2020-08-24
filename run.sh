@@ -1,3 +1,5 @@
+#Created by krishnendu maity.
+#please dont copy this file.
 #!/system/bin/sh
 clear
 echo "The" | lolcat
