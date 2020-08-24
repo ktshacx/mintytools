@@ -1,4 +1,6 @@
 # Minty Tools
+![done](https://img.shields.io/badge/Project-Passing-green)
+
 A tools package for Termux.
 # Installation
 
@@ -10,9 +12,9 @@ A tools package for Termux.
 
 4) `chmod +x *`
 
-5) `./requirements.sh
+5) `./requirements.sh`
 
-6) `./run.sh
+6) `./run.sh`
 
 
 # Credits
