@@ -8,9 +8,9 @@ echo -e "\e[92m××Craeated by Krish tech studio××\e[0m";
 echo -e "\e[91mPlease Subscribe our channel \e[0m";
 echo "";
 echo "";
-echo -e "\e[96m1) Wifite2          4)Wifite1\e[0m";
-echo -e "\e[96m2) Aircrack-ng      5)Hulk DDoS\e[0m";
-echo -e "\e[96m3) Wlan0mon         6)Tool-X\e[0m";
+echo -e "\e[96m1) Wifite2          4) Wifite1\e[0m";
+echo -e "\e[96m2) Aircrack-ng      5) Hulk DDoS\e[0m";
+echo -e "\e[96m3) Wlan0mon         6) Tool-X\e[0m";
 echo -e "\e[91mEnter Your Choice:\e[0m";
 read userinput1
 case $userinput1 in
